@@ -1,0 +1,37 @@
+{
+  "inputs": [
+    {
+      "id": "DataObject_0h3a3f5",
+      "inputType": "individual",
+      "valueType": "value",
+      "description": "Zipped output.rch text file.",
+      "name": "output.rch",
+      "obligation": true,
+      "hasDefault": false,
+      "valueSchema": "url",
+      "target": "output_rch.zip"
+    },
+    {
+      "id": "DataObject_0h3a3f8",
+      "inputType": "individual",
+      "valueType": "value",
+      "description": "Zipped output.sub text file.",
+      "name": "output.sub",
+      "obligation": true,
+      "hasDefault": false,
+      "valueSchema": "url",
+      "target": "output_sub.zip"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "DataObject_0n95v56",
+      "outputType": "individual",
+      "valueType": "value",
+      "description": "River basin essential water variables monthly time series.",
+      "name": "ewvs.txt",
+      "valueSchema": "url",
+      "target": "ewvs.txt"
+	}
+  ]
+}

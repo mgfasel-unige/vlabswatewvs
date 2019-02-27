@@ -1,0 +1,16 @@
+{
+  "image": "python",
+  "resources": {
+    "memory_mb": "50000",
+    "cpu_units": ""
+ },
+  "container": {
+    "entryPoint": [
+      "/bin/bash",
+      "-c"
+	],
+  "command": [
+	"sh swat_ewvs.sh"
+	]
+  }
+}

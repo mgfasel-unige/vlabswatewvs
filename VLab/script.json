@@ -1,0 +1,14 @@
+{
+  "scripts": [
+    {
+      "repoPath": "swat_ewvs.sh",
+      "targetPath": "swat_ewvs.sh",
+      "pathType": "FILE"
+	},
+    {
+      "repoPath": "swat_ewvs.py",
+      "targetPath": "swat_ewvs.py",
+      "pathType": "FILE"
+	}
+  ]
+}
